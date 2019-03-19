@@ -21,6 +21,10 @@ ACM Transactions on Interactive Intelligent Systems.
 
 Please report any errors or issues to jchamb@essex.ac.uk
 
+# Download
+
+The corpus is avaliable at this [link](https://drive.google.com/file/d/1yCkMOok_iPrgPcRtWY_ZW4N9DP9xfIAD/view?usp=sharing).
+
 # Document Guide
 
 Source files are included in this corpus release including files appended:
